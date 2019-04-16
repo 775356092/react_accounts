@@ -1,4 +1,5 @@
-![Alt text](https://github.com/775356092/react_accounts/tree/master/screenshots/001.png)
+## 这是一个小型记账系统
+![image](https://github.com/775356092/react_accounts/blob/master/screenshots/001.PNG)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
