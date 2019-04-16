@@ -1,0 +1,43 @@
+html,body {
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#root {
+    margin-left: 550px;
+}
+
+.table {
+    text-align: center;
+    width: 800px;
+}
+
+.btn {
+    margin-left: 20px;
+}
+
+.row {
+    margin-left: 0px;
+    margin-top: 3px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+
+.card {
+    width: 200px;
+}
+
+.form-inline {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-right: 36px;
+    border-radius: 20px;
+}
+
+.td {
+    width: 206px;
+    vertical-align: middle;
+}
